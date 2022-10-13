@@ -1,0 +1,9 @@
+:root{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(45deg, rgba(85,34,195,1) 11%, rgba(180,87,192,1) 47%, rgba(253,166,45,1) 85%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

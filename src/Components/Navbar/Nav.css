@@ -1,0 +1,22 @@
+.Navbar{
+    background-color:#F55A5A ;
+    height: 50px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+p{
+ color: white;   
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14.4608px;
+line-height: 18px;
+letter-spacing: -0.075em;
+
+
+
+
+}
